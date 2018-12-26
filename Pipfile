@@ -6,7 +6,8 @@ name = "pypi"
 [packages]
 pydrive = "*"
 google-colab = {git = "https://github.com/googlecolab/colabtools.git"}
-pandas = "*"
+"oauth2client" = "*"
+google = "*"
 
 [dev-packages]
 
